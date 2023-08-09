@@ -1,1 +1,1 @@
-# MedMemo-Miniproject
+# medical_reminder
